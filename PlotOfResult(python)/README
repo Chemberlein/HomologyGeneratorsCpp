@@ -1,0 +1,4 @@
+For persistance diagram : python3 plots.py <name of the file with point space> <visability> 
+For Homology generators : python3 plots2.py <name of the file with point space> <visability>
+visability = 0 - just create plots and save them in the output folder 
+visability = 1 - save and show plots 
