@@ -12,8 +12,8 @@ Then you could run **run.sh** script and follow the instructions
 	if you don't in capacity you may just put 1 in this column (or any other number). 
 ## Output
 All figures automatically saved in "output" folder.
-In directory "ComputationOfHomology(cpp)/output" you could find file that were generated during execution of the program. _
-More precisely : _
+In directory "ComputationOfHomology(cpp)/output" you could find file that were generated during execution of the program. <br />
+More precisely : <br />
 	Persistant_Diagram_Data.txt - contains life span information for simplex-es <br />
 	H1_homology_generators.txt - contains chains that surround topologycal features <br />
 
