@@ -11,7 +11,6 @@ Then you could run **run.sh** script and follow the instructions
 	First point considered as depot and demand of this point represent capacity of the vehicle.
 	if you don't in capacity you may just put 1 in this column (or any other number). 
 ## Output
-
 All figures automatically saved in "output" folder.
 In directory "ComputationOfHomology(cpp)/output" you could find file that were generated during execution of the program.
 More precisely :
